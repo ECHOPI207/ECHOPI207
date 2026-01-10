@@ -93,8 +93,9 @@
 
 ### 📊 Weekly Activity
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ECHOPI207&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://camo.githubusercontent.com/379eea8d694ded8859efe874f61bbee390761a8a053110ec7150707e070607ff/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4543484f5049323037267468656d653d7261646963616c26686964655f626f726465723d74727565" />
 </div>
+
 
 ---
 
