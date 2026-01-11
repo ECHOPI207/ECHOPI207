@@ -12,7 +12,9 @@
 <a href="https://www.canva.com/design/DAGbmZMuFUg/FLVq3AoKKEC8KVFwACpDnA/view" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="My Portfolio" />
 </a>
-
+<a href="https://buttercup-saver-245.notion.site/Mohamed-Mostafa-ECHO-s-Space-bcc478a7e11543c99303f650f0767004" target="_blank">
+  <img src="https://img.shields.io/badge/Knowledge%20Hub-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Knowledge Hub" />
+</a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Mostafa Mohamed</h1>
